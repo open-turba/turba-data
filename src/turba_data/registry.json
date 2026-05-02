@@ -1,0 +1,18 @@
+{
+  "datasets": [
+    {
+      "id": "esa_worldcereal_morocco_cereals_medium",
+      "file": "datasets/esa_worldcereal_morocco_cereals_medium.parquet",
+      "format": "parquet",
+      "description": "Site-specific fertilizer recommendations for cereal locations in Morocco derived from ESA WorldCereal data, using the medium target yield level.",
+      "stats": {
+        "rows": 132017,
+        "columns": 22,
+        "unique_sites": 44096,
+        "regions": 10,
+        "provinces": 66,
+        "communes": 1149
+      }
+    }
+  ]
+}

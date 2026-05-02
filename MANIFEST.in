@@ -1,0 +1,2 @@
+include src/turba_data/registry.json
+recursive-include src/turba_data/datasets *.parquet
