@@ -11,8 +11,8 @@
   </a>
 
   <!-- Security -->
-  <a href="https://socket.dev/pypi/package/turba-data">
-    <img src="https://badge.socket.dev/pypi/package/turba-data/?artifact_id=tar-gz#1764083045680" alt="Socket" />
+  <a href="https://badge.socket.dev/pypi/package/turba-data/0.1.0?artifact_id=tar-gz">
+    <img src="https://badge.socket.dev/pypi/package/turba-data/0.1.0?artifact_id=tar-gz" alt="Socket Security" />
   </a>
 
   <!-- Downloads -->
